@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/gtfojulio" target="blank"><img src="https://img.shields.io/twitter/follow/gtfojulio?logo=twitter&style=for-the-badge" alt="gtfojulio" /></a> </p>
 
-- 🌱 Actualmente aprendiendo : **Java**
+- 🌱 Actualmente aprendiendo : **Java** | **Python**
 
 - 📫 Para comunicarte conmigo : **Twitter**
 
