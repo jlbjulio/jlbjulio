@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Julio Lara</h1>
-<h3 align="center">Soy un apasionado programador de Panamá.</h3>
+
 
 <p align="left"> <a href="https://twitter.com/gtfojulio" target="blank"><img src="https://img.shields.io/twitter/follow/gtfojulio?logo=twitter&style=for-the-badge" alt="gtfojulio" /></a> </p>
 
