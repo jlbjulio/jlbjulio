@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="justify">Hi there 👋</h1>
 
-<p align="center" style="max-width: 600px; margin: 0 auto; font-size: 1em; color: #34495e;">
+<p align="justify" style="max-width: 600px; margin: 0 auto; font-size: 1.2em; color: #34495e;">
   Hello, my name is Julio Lara. I am currently a student learning programming languages. I am a punctual person who always completes tasks on time, meets deadlines, and often finishes early. Responsible, hardworking, and passionate about programming.
 </p>
 
