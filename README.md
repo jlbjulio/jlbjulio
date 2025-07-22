@@ -1,7 +1,9 @@
 <h1 align="justify">Hi there 👋</h1>
 
-<p align="justify" style="max-width: 600px; margin: 0 auto; font-size: 1.2em; color: #34495e;">
-  Hello, my name is Julio Lara. I am currently a student learning programming languages. I am a punctual person who always completes tasks on time, meets deadlines, and often finishes early. Responsible, hardworking, and passionate about programming.
+<p align="justify" style="max-width: 600px; margin: 0 auto; font-size: 1.2em; color: #34495e; line-height: 1.5;">
+  I’m Julio Lara, a student from Panama currently studying Systems and Computer Engineering.<br><br>
+  I enjoy creating and designing new things.<br><br>
+  Outside of studying, I enjoy exploring new technologies and continuously improving my skills.
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
