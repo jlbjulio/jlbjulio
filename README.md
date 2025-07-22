@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
-<!-- Quité la parte de Twitter -->
-
-- 🌱 Actualmente aprendiendo : **Python**
+<p align="center" style="max-width: 600px; margin: 0 auto; font-size: 1em; color: #34495e;">
+  Hello, my name is Julio Lara. I am currently a student learning programming languages. I am a punctual person who always completes tasks on time, meets deadlines, and often finishes early. Responsible, hardworking, and passionate about programming.
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -44,8 +44,5 @@
   </a>
   <a href="https://learn.microsoft.com/en-us/visualstudio/shaders/shader-language-reference" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="shaderlab" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-pguide" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hlsl/hlsl-original.svg" alt="hlsl" width="40" height="40"/>
   </a>
 </p>
