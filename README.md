@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center" style="max-width: 600px; margin: 0 auto; font-size: 1.1em; color: #34495e; line-height: 1.6;">
+<p align="Justify" style="max-width: 600px; margin: 0 auto; font-size: 1.1em; color: #34495e; line-height: 1.6;">
   I’m <b>Julio Lara</b>, a student from Panamá currently studying Systems and Computer Engineering.<br>
   I enjoy creating and designing new things.<br>
   Outside of studying, I enjoy exploring new technologies and continuously improving my skills.
