@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/julio-lara-61a14935a/" target="_blank">
+  <a href="https://www.linkedin.com/in/julioj-lara/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Julio%20Lara-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
