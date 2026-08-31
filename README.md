@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  I design and build useful digital products across web, mobile, backend, cloud, and AI.
-  <br />
-  My current focus is full stack engineering, with a growing specialization in intelligent systems.
+  I build web, mobile, backend, cloud, and AI-powered solutions focused on usability and real-world value.
 </p>
 
 <p align="center">
@@ -18,76 +16,97 @@
     />
   </a>
   <img
-    src="https://img.shields.io/badge/Location-Panama-d21034?style=flat-square&logo=googlemaps&logoColor=white"
+    src="https://img.shields.io/badge/Panama-Local%20Time-D21034?style=flat-square&logo=googlemaps&logoColor=white"
     alt="Panama"
   />
 </p>
 
----
+## Tech Stack
 
-<h3 align="center">01 · Languages</h3>
+<h4 align="center">Languages</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,cs,c,cpp&theme=dark" alt="Programming languages" />
+</p>
+
+<h4 align="center">Web and Application Development</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,spring,flask,html,css,vite&theme=dark" alt="Web and application development" />
+</p>
+
+<h4 align="center">Artificial Intelligence and Data</h4>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,ts,js,java,go,cs,c,cpp&theme=dark"
-    alt="Python, TypeScript, JavaScript, Java, Go, C Sharp, C and C Plus Plus"
-  />
-</p>
-
-<h3 align="center">02 · Full Stack Development</h3>
-
-<p align="center">
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
+    alt="TensorFlow"
+    title="TensorFlow"
+    width="42"
+    height="42"
+  />&nbsp;
   <img
-    src="https://skillicons.dev/icons?i=react,angular,nodejs,spring,flask,html,css,vite&theme=dark"
-    alt="React, Angular, Node.js, Spring, Flask, HTML, CSS and Vite"
-  />
-</p>
-
-<p align="center">
-  React Native · Expo · Quarkus · Flet · REST APIs
-</p>
-
-<h3 align="center">03 · Artificial Intelligence and Data</h3>
-
-<p align="center">
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
+    alt="PyTorch"
+    title="PyTorch"
+    width="42"
+    height="42"
+  />&nbsp;
   <img
-    src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"
-    alt="TensorFlow, PyTorch and OpenCV"
-  />
-</p>
-
-<p align="center">
-  Machine Learning · RAG · Agentic AI · Structured LLM Outputs
-  <br />
-  Local Inference · ASR · OCR · TTS · Machine Translation
-</p>
-
-<h3 align="center">04 · Databases, Cloud and DevOps</h3>
-
-<p align="center">
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"
+    alt="OpenCV"
+    title="OpenCV"
+    width="42"
+    height="42"
+  />&nbsp;
   <img
-    src="https://skillicons.dev/icons?i=postgres,mysql,supabase,aws,azure,docker,vercel,git,github,githubactions&theme=dark"
-    alt="PostgreSQL, MySQL, Supabase, AWS, Azure, Docker, Vercel, GitHub and GitHub Actions"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+    alt="scikit-learn"
+    title="scikit-learn"
+    width="42"
+    height="42"
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+    alt="NumPy"
+    title="NumPy"
+    width="42"
+    height="42"
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+    alt="pandas"
+    title="pandas"
+    width="42"
+    height="42"
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+    alt="Jupyter"
+    title="Jupyter"
+    width="42"
+    height="42"
   />
 </p>
 
-<details>
-  <summary><strong>Extended toolkit</strong></summary>
+<p align="center">
+  <img src="https://img.shields.io/badge/Local%20Inference-25292E?style=flat-square" alt="Local Inference" />
+  <img src="https://img.shields.io/badge/RAG-25292E?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-25292E?style=flat-square" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Structured%20LLM%20Outputs-25292E?style=flat-square" alt="Structured LLM Outputs" />
+  <img src="https://img.shields.io/badge/ASR-25292E?style=flat-square" alt="ASR" />
+  <img src="https://img.shields.io/badge/OCR-25292E?style=flat-square" alt="OCR" />
+  <img src="https://img.shields.io/badge/TTS-25292E?style=flat-square" alt="TTS" />
+</p>
 
-  <br />
-
-  - **AI and ML:** QVAC · scikit-learn · MediaPipe · NumPy · pandas
-  - **Data and Visualization:** Matplotlib · Plotly · Seaborn · Power BI · Jupyter Notebook
-  - **Databases:** Oracle Database · SQL Server
-  - **Cloud:** AWS Lambda · OCI · Supabase
-  - **Applications:** React Native · Expo · Flet · Streamlit · Dash · Windows Forms
-  - **APIs and Integrations:** OAuth 2.0 · OpenAI API · WhatsApp Business API · Gmail API
-  - **Tooling:** Postman · Visual Studio Code · Visual Studio · Android Studio · Bun · npm · yarn · Deno
-  - **Testing:** Jest · Vitest
-</details>
-
----
+<h4 align="center">Databases and Cloud</h4>
 
 <p align="center">
-  <em>Building complete products today. Exploring intelligent systems for tomorrow.</em>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,aws,azure,docker,vercel&theme=dark" alt="Databases and cloud platforms" />
+</p>
+
+<h4 align="center">Development Tools</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,visualstudio,androidstudio&theme=dark" alt="Development tools" />
 </p>
