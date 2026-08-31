@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Julio Lara 👋</h1>
+<h1 align="center">Hi, I'm Julio Lara</h1>
 
 <p align="center">
   <strong>Systems and Computer Engineer · Full Stack & AI Developer</strong>
@@ -18,11 +18,11 @@
   <img src="https://img.shields.io/badge/Panama-D21034?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Panama" />
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Systems and Computer Engineer and Full Stack Developer based in Panama. I build end-to-end software across web, mobile, backend, cloud, data, and AI, working from the first product idea and interface design through APIs, infrastructure, automation, and deployment. I'm currently focused on creating reliable, useful products while growing my experience in scalable systems and applied AI.
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages
 
