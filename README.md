@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Julio Lara 👋</h1>
 
 <p align="center">
-  <strong>Systems and Computer Engineer · Full Stack Developer</strong>
+  <strong>Systems and Computer Engineer · Full Stack & AI Developer</strong>
 </p>
 
 <p align="center">
@@ -20,14 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer based in Panama with a background in systems and computer engineering. I enjoy turning ideas into practical software, from responsive applications and backend services to cloud infrastructure and AI features.
-
-## 🎯 Current Focus
-
-- Building full-stack web and mobile applications
-- Designing APIs, backend services, and cloud deployments
-- Working with local inference, RAG, agentic workflows, and structured LLM outputs
-- Exploring OCR, speech recognition, and text-to-speech systems
+I'm a Systems and Computer Engineer and Full Stack Developer based in Panama. I build end-to-end software across web, mobile, backend, cloud, data, and AI, working from the first product idea and interface design through APIs, infrastructure, automation, and deployment. I'm currently focused on creating reliable, useful products while growing my experience in scalable systems and applied AI.
 
 ## 🧰 Tech Stack
 
@@ -67,6 +60,18 @@ I'm a developer based in Panama with a background in systems and computer engine
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+### Applied AI
+
+<p>
+  <img src="https://img.shields.io/badge/Local_Inference-000000?style=flat-square&logo=ollama&logoColor=white" alt="Local Inference" />
+  <img src="https://img.shields.io/badge/Retrieval--Augmented_Generation-0F766E?style=flat-square&logo=openai&logoColor=white" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/Agentic_AI-6D28D9?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Structured_LLM_Outputs-2563EB?style=flat-square&logo=json&logoColor=white" alt="Structured LLM Outputs" />
+  <img src="https://img.shields.io/badge/Automatic_Speech_Recognition-DB2777?style=flat-square&logo=audiomack&logoColor=white" alt="Automatic Speech Recognition" />
+  <img src="https://img.shields.io/badge/Optical_Character_Recognition-F59E0B?style=flat-square&logo=googlelens&logoColor=white" alt="Optical Character Recognition" />
+  <img src="https://img.shields.io/badge/Text--to--Speech-0891B2?style=flat-square&logo=googleassistant&logoColor=white" alt="Text-to-Speech" />
 </p>
 
 ### Databases and Cloud
