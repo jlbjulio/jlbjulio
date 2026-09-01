@@ -62,15 +62,22 @@ I'm a Systems and Computer Engineer and Full Stack Developer based in Panama. I 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-### Applied AI
+### AI Frameworks and Protocols
+
+<p>
+  <a href="https://www.langchain.com/langgraph">
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  </a>
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-5A67D8?style=flat-square&logo=anthropic&logoColor=white" alt="Model Context Protocol (MCP)" />
+</p>
+
+### AI Engineering
 
 <p>
   <img src="https://img.shields.io/badge/Local_Inference-000000?style=flat-square&logo=ollama&logoColor=white" alt="Local Inference" />
   <img src="https://img.shields.io/badge/Retrieval--Augmented_Generation-0F766E?style=flat-square&logo=openai&logoColor=white" alt="Retrieval-Augmented Generation" />
   <img src="https://img.shields.io/badge/Agentic_AI-6D28D9?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="Multi-Agent Orchestration" />
-  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-5A67D8?style=flat-square&logo=anthropic&logoColor=white" alt="Model Context Protocol (MCP)" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="Multi-Agent Systems" />
   <img src="https://img.shields.io/badge/Model_Fine--Tuning-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Model Fine-Tuning" />
   <img src="https://img.shields.io/badge/Structured_LLM_Outputs-2563EB?style=flat-square&logo=json&logoColor=white" alt="Structured LLM Outputs" />
   <img src="https://img.shields.io/badge/Automatic_Speech_Recognition-DB2777?style=flat-square&logo=audiomack&logoColor=white" alt="Automatic Speech Recognition" />
