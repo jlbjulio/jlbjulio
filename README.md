@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Julio Lara 👋</h1>
+<h1 align="center">Hi, I'm Julio Lara</h1>
 
 <p align="center">
   <strong>Systems and Computer Engineer · Full Stack & AI Developer</strong>
@@ -18,11 +18,11 @@
   <img src="https://img.shields.io/badge/Panama-D21034?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Panama" />
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Systems and Computer Engineer and Full Stack Developer based in Panama. I build end-to-end software across web, mobile, backend, cloud, data, and AI, working from the first product idea and interface design through APIs, infrastructure, automation, and deployment. I'm currently focused on creating reliable, useful products while growing my experience in scalable systems and applied AI.
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -68,6 +68,10 @@ I'm a Systems and Computer Engineer and Full Stack Developer based in Panama. I 
   <img src="https://img.shields.io/badge/Local_Inference-000000?style=flat-square&logo=ollama&logoColor=white" alt="Local Inference" />
   <img src="https://img.shields.io/badge/Retrieval--Augmented_Generation-0F766E?style=flat-square&logo=openai&logoColor=white" alt="Retrieval-Augmented Generation" />
   <img src="https://img.shields.io/badge/Agentic_AI-6D28D9?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="Multi-Agent Orchestration" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-5A67D8?style=flat-square&logo=anthropic&logoColor=white" alt="Model Context Protocol (MCP)" />
+  <img src="https://img.shields.io/badge/Model_Fine--Tuning-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Model Fine-Tuning" />
   <img src="https://img.shields.io/badge/Structured_LLM_Outputs-2563EB?style=flat-square&logo=json&logoColor=white" alt="Structured LLM Outputs" />
   <img src="https://img.shields.io/badge/Automatic_Speech_Recognition-DB2777?style=flat-square&logo=audiomack&logoColor=white" alt="Automatic Speech Recognition" />
   <img src="https://img.shields.io/badge/Optical_Character_Recognition-F59E0B?style=flat-square&logo=googlelens&logoColor=white" alt="Optical Character Recognition" />
