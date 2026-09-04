@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  I build web, mobile, cloud, and AI-powered applications with clean interfaces and dependable systems.
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/julioj-lara/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
