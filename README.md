@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Julio Lara 👋</h1>
 
 <p align="center">
-  <strong>Systems and Computer Engineer · Full Stack & AI Developer</strong>
+  <strong>AI Engineer · Full Stack Developer · Systems and Computer Engineer</strong>
 </p>
 
 <p align="center">
@@ -16,7 +16,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a Systems and Computer Engineer and Full Stack Developer based in Panama. I build end-to-end software across web, mobile, backend, cloud, data, and AI, working from the first product idea and interface design through APIs, infrastructure, automation, and deployment. I'm currently focused on creating reliable, useful products while growing my experience in scalable systems and applied AI.
+I'm a Systems and Computer Engineer focused on AI Engineering and Full Stack Development. I build end-to-end software and intelligent systems across web, mobile, backend, cloud, data, and AI, combining strong software engineering foundations with applied artificial intelligence. My work spans the full development lifecycle, from architecture and implementation to testing, deployment, integration, and maintenance.
+
+I'm currently focused on building practical AI-powered products and continuing to grow in intelligent systems, scalable architectures, and modern software engineering.
 
 ## 🧰 Tech Stack
 
